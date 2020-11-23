@@ -50,27 +50,36 @@ Durante as entrevistas com o cliente foram coletados os desejos do cliente. Esta
 
 
 Requisitos não funcionais:
+
 O sistema deve ser desenvolvido em linguagem Java.
+
 A interface deve ser agradável e de fácil utilização.
+
 O sistema deve ser mantido em um computador local.
+
 O banco de dados será mantido no computador local, assim como automaticamente mantido e atualizado na nuvem (google drive).
+
 	
-	Requisitos funcionais:
+Requisitos funcionais:
+
 O sistema permitirá que pessoas sejam cadastradas, classificando-os como: cliente, caixa e gerente.
+
 O sistema permitirá que o caixa possa cadastrar clientes no entanto somente o gerente pode fazer alterações no cadastro dos clientes.
+
 O sistema permitirá o acesso dos caixas e gerentes através de login e senha.
+
 O sistema trabalhará com operações de venda chamados de checkout.
+
 O sistema fará o controle de estoque através de classes de Produto e ArrayLists de Produto.
+
 O sistema permitirá que produtos sejam cadastrados, armazenando atributos como preço e quantidade.
+
 O sistema terá compatibilidade com softwares externos de cartões de cobrança e pagamentos.
+
 O sistema irá gerar identificadores únicos para cada operação de checkout realizado.
 
 1.2.3 Diagrama de Caso de Uso 
 O diagrama de caso de uso irá relata toda interação entre os atores e o sistema, cada evento gera ações de interação entre os atores e o software desenvolvido. 
-
-
-
-
 
 1.2.4 Diagrama de Classes 
 O diagrama de classes será de fundamental importância nesse software, onde o diagrama mostra o comportamento das classes dentro do sistema.
