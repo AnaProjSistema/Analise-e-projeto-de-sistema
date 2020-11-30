@@ -54,10 +54,11 @@ Essas atividades focam o desenvolvimento de um modelo técnico com característi
 
 1.2.1 Definição dos Atores 
 
-Os atores representam entidades que irão interagir com o sistema, onde temos o Cliente, Caixa, Gerente  e Conta Bancária:
+Os atores representam entidades que irão interagir com o sistema, onde temos o Cliente, Caixa, Gerente, Banco de dados e Conta Bancária:
 Cliente: Como o nome sugere é o cliente comum, que entra no mercado e interage minimamente com o sistema, tendo sua interação limitada ao momento do checkout.
 Caixa: É o empregado comum, com a credencial mais baixa. Geralmente se trata de um caixa dedicado. Tem a maior parcela de interação com o sistema, podendo realizar cadastro de clientes e sendo responsável pelo checkout.
 Gerente: Não interage tanto quanto o Caixa, no entanto carrega uma responsabilidade grande, tendo credenciais absolutas, podendo realizar vendas em modalidade fiado assim como negociar o pagamento dessas dívidas.
+Banco de Dados: Interage com o sistema apenas no armazenamento de dados.
 Conta Bancária: Interage com o sistema apenas na transferência de dinheiro no ato de quaisquer pagamentos.
 
 1.2.2 Lista de Requisitos 
